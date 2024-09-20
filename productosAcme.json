@@ -1,0 +1,11 @@
+{
+    "123": {
+        "nombre": "pegamento Acme",
+        "precio": 25000.0,
+        "cantidad": 60,
+        "descuento": [
+            18.0,
+            25.0
+        ]
+    }
+}
